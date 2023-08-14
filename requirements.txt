@@ -2,3 +2,4 @@ swiplserver
 gradio
 pandas
 plotly
+swiplserver
