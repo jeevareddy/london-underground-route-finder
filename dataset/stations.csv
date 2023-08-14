@@ -1,0 +1,51 @@
+id,latitude,longitude,name,display_name,zone,total_lines,rail,prolog_name
+2,51.5143,-0.0755,Aldgate,,1.0,2,0,aldgate
+3,51.5154,-0.0726,Aldgate East,Aldgate<br />East,1.0,2,0,aldgate_east
+7,51.5322,-0.1058,Angel,,1.0,1,0,angel
+13,51.5133,-0.0886,Bank,,1.0,4,0,bank
+14,51.5204,-0.0979,Barbican,,1.0,3,0,barbican
+25,51.512,-0.1031,Blackfriars,,1.0,2,0,blackfriars
+28,51.5142,-0.1494,Bond Street,Bond<br />Street,1.0,2,0,bond_street
+29,51.5011,-0.0943,Borough,,1.0,1,0,borough
+44,51.5113,-0.0904,Cannon Street,Cannon<br />Street,1.0,2,0,cannon_street
+48,51.5185,-0.1111,Chancery Lane,Chancery<br />Lane,1.0,1,0,chancery_lane
+49,51.508,-0.1247,Charing Cross,Charing<br />Cross,1.0,2,1,charing_cross
+60,51.5129,-0.1243,Covent Garden,Covent<br />Garden,1.0,1,0,covent_garden
+84,51.4943,-0.1001,Elephant & Castle,Elephant &<br />Castle,1.5,2,1,elephant_and_castle
+87,51.5074,-0.1223,Embankment,,1.0,4,0,embankment
+89,51.5282,-0.1337,Euston,,1.0,2,1,euston
+90,51.526,-0.1359,Euston Square,Euston<br />Square,1.0,3,0,euston_square
+92,51.5203,-0.1053,Farringdon,,1.0,3,1,farringdon
+102,51.5205,-0.1347,Goodge Street,Goodge<br />Street,1.0,1,0,goodge_street
+104,51.5238,-0.1439,Great Portland Street,Great<br />Portland<br />Street,1.0,3,0,great_portland_street
+107,51.5067,-0.1428,Green Park,Green<br />Park,1.0,3,0,green_park
+126,51.5174,-0.12,Holborn,,1.0,2,0,holborn
+133,51.5027,-0.1527,Hyde Park Corner,Hyde<br />Park<br />Corner,1.0,1,0,hyde_park_corner
+136,51.4884,-0.1053,Kennington,,2.0,1,0,kennington
+145,51.5308,-0.1238,King's Cross St. Pancras,King's Cross<br />St. Pancras,1.0,6,1,kings_cross_st_pancras
+148,51.4991,-0.1115,Lambeth North,Lambeth<br />North,1.0,1,0,lambeth_north
+151,51.5113,-0.1281,Leicester Square,Leicester<br />Square,1.0,2,0,leicester_square
+156,51.5178,-0.0823,Liverpool Street,Liverpool<br />Street,1.0,4,1,liverpool_street
+157,51.5052,-0.0864,London Bridge,London<br />Bridge,1.0,2,1,london_bridge
+161,51.5122,-0.094,Mansion House,Mansion<br />House,1.0,2,0,mansion_house
+166,51.5108,-0.0863,Monument,,1.0,2,0,monument
+167,51.5186,-0.0886,Moorgate,,1.0,4,1,moorgate
+170,51.5342,-0.1387,Mornington Crescent,Mornington<br />Crescent,2.0,1,0,mornington_crescent
+188,51.5263,-0.0873,Old Street,Old<br />Street,1.0,1,1,old_street
+192,51.515,-0.1415,Oxford Circus,Oxford<br />Circus,1.0,3,0,oxford_circus
+197,51.5098,-0.1342,Picadilly Circus,Picadilly<br />Circus,1.0,2,0,picadilly_circus
+198,51.4893,-0.1334,Pimlico,,1.0,1,0,pimlico
+212,51.5234,-0.1466,Regent's Park,Regent's<br />Park,1.0,1,0,regents_park
+223,51.523,-0.1244,Russell Square,Russell<br />Square,1.0,1,0,russell_square
+248,51.4994,-0.1335,St. James's Park,St. James's<br />Park,1.0,2,0,st_jamess_park
+250,51.5146,-0.0973,St. Paul's,St. Paul's,1.0,1,0,st_pauls
+255,51.5111,-0.1141,Temple,,1.0,2,0,temple
+259,51.5165,-0.131,Tottenham Court Road,Tottenham<br />Court<br />Road,1.0,2,0,tottenham_court_road
+262,51.5106,-0.0743,Tower Gateway,Tower<br />Gateway,1.0,1,0,tower_gateway
+263,51.5098,-0.0766,Tower Hill,Tower<br />Hill,1.0,2,0,tower_hill
+272,51.4861,-0.1253,Vauxhall,,1.5,1,1,vauxhall
+273,51.4965,-0.1447,Victoria,,1.0,3,1,victoria
+277,51.5247,-0.1384,Warren Street,Warren<br />Street,1.0,2,0,warren_street
+279,51.5036,-0.1143,Waterloo,,1.0,4,1,waterloo
+285,51.501,-0.1254,Westminster,,1.0,3,0,westminster
+233,51.501,-0.1052,Southwark,,1.0,1,0,southwark
